@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <remote name="p" fetch="https://github.com/popoA3M" />
+        
+<!-- E trees -->
+	
+        <project path="device/10or/E" name="android_device_10or_E" remote="p" revision="main" clone-depth="1" />
+        <project path="vendor/10or" name="android_vendor_10or_E" remote="p" revision="main" clone-depth="1" />
+        <project path="kernel/10or/E" name="android_kernel_10or_E" remote="p" revision="main" clone-depth="1" />
+	        
+</manifest>
