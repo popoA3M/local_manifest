@@ -7,6 +7,6 @@
 	
         <project path="device/10or/E" name="android_device_10or_E" remote="p" revision="main" clone-depth="1" />
         <project path="vendor/10or" name="android_vendor_10or_E" remote="p" revision="main" clone-depth="1" />
-        <project path="kernel/10or/E" name="android_kernel_10or_E" remote="p" revision="main" clone-depth="1" />
+        <project path="kernel/10or/E" name="android_kernel_10or_E" remote="p" revision="a12/master" clone-depth="1" />
 	        
 </manifest>
